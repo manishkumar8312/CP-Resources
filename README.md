@@ -57,7 +57,7 @@ All implementations follow competitive programming constraints and best practice
 ```text
 CP-Notes/
 │
-├── CP-31 800 Sheet/
+├── CP-31 800 sheet/
 │   ├── A_Ambitious_Kid.cpp
 │   ├── A_Array_Coloring.cpp
 │   ├── A_Binary_Array_Game.cpp
@@ -85,8 +85,14 @@ CP-Notes/
 │   ├── B_Sequence_Game.cpp
 │   └── C_Prepend_and_Append.cpp
 │
+├── CP-31 900 sheet/
+│   ├── A_Forked.cpp
+│   └── B_Chemistry.cpp
+│
 ├── Graphs/
-│   └── counting rooms.cpp
+│   └── CSES Problems/
+│       ├── Labyrinth.cpp
+│       └── counting rooms.cpp
 │
 ├── Number-Theory/
 │   ├── sieveofEratosthenes.cpp
