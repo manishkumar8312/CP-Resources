@@ -181,7 +181,7 @@ function dijkstra(source):
 
 Dijkstra's algorithm is one of the most fundamental algorithms for solving shortest path problems in graph theory and competitive programming.
 
-Code: 
+# Code: 
 ```
 #include <bits/stdc++.h>
 using namespace std;
