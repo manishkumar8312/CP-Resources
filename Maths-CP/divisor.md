@@ -218,7 +218,30 @@ Divisors:
 ```
 
 ---
+### C++ Implementation
 
+```cpp
+int countDivisors(int n) {
+    int count = 1;
+
+    for(int i = 2; i * i <= n; i++) {
+        int power = 0;
+
+        while(n % i == 0) {
+            n /= i;
+            power++;
+        }
+
+        count *= (power + 1);
+    }
+
+    if(n > 1)
+        count *= 2;
+
+    return count;
+}
+```
+---
 # Product of Divisors
 
 The **product of all divisors** of `n` is
