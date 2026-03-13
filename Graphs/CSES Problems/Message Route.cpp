@@ -50,8 +50,6 @@ int main() {
     }
 
     reverse(path.begin(), path.end());
-
     cout << path.size() << "\n";
-
     for(int x : path) cout << x << " ";
 }
