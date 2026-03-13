@@ -186,7 +186,7 @@ LCM = 12
 
 This formula is **very important in CP**.
 
-a \times b = \gcd(a,b) \times \mathrm{lcm}(a,b)
+a * b = gcd(a,b) * lcm(a,b)
 
 Therefore,
 
