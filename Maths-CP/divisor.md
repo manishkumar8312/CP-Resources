@@ -372,3 +372,15 @@ stores all divisors of `x`.
 * The maximum number of divisors for numbers up to `10^9` is relatively small (around a few thousand).
 
 ---
+
+# Practice Problems
+[CSES – Counting Divisors](https://cses.fi/problemset/task/1713)
+[CSES - Common Divisors](https://cses.fi/problemset/task/1081)
+[CSES - Sum of Divisors](https://cses.fi/problemset/task/1082/)
+[CSES - Divisor Analysis](https://cses.fi/problemset/task/2182/)
+
+[CF - Kth Divisor](https://codeforces.com/problemset/problem/762/A)
+[CF - LCM](https://codeforces.com/problemset/problem/1068/B)
+[CF - Number With the Given Amount of Divisors](https://codeforces.com/problemset/problem/27/E)
+
+[LC - Four Divisors](https://leetcode.com/problems/four-divisors/)
