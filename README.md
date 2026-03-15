@@ -3,6 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Focus](https://img.shields.io/badge/Focus-Competitive%20Programming-informational)
+![Notes](https://img.shields.io/badge/Notes-CP--Notes-orange)
 
 [CP Resources](https://docs.google.com/document/d/1Qmh_suVjBv0F3LFC5CfO06knn2zW92nfTyVlQLrUnFs/edit?tab=t.0)
 
