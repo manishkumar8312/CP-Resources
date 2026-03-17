@@ -25,7 +25,7 @@ All implementations follow competitive programming constraints and best practice
 
 ### Core Topics
 
-* * **[Number Theory](./Number-Theory/)**
+* **[Number Theory](./Number-Theory/)**
 
   * Prime numbers and sieves
   * GCD and divisors
