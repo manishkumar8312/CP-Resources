@@ -1,4 +1,4 @@
-# CP Notes
+# [CP Notes](https://github.com/manishkumar8312/cp-notes)
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
