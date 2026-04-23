@@ -33,9 +33,11 @@ ll countBad(ll n) {
     return count;
 
 }
+
 ll countGood(ll x){
     return x - countBad(x);
 }
+
 void solve(){
     ll l,r; cin >> l >> r;
     cout << countGood(r) - countGood(l-1)<<"\n";
@@ -50,5 +52,4 @@ int32_t main(){
     while(t--){
         solve();
     }
-
 }
