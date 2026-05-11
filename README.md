@@ -59,59 +59,23 @@ All implementations follow competitive programming constraints and best practice
 CP-Notes/
 │
 ├── CP-31 800 sheet/
-│   ├── A_Ambitious_Kid.cpp
-│   ├── A_Array_Coloring.cpp
-│   ├── A_Binary_Array_Game.cpp
-│   ├── A_Buttons.cpp
-│   ├── A_Cover_in_Water.cpp
-│   ├── A_Desorting.cpp
-│   ├── A_Don_t_Try_to_Count.cpp
-│   ├── A_Doremy_s_Paint_3.cpp
-│   ├── A_Everybody_Likes_Good_Arrays.cpp
-│   ├── A_Extremely_Round.cpp
-│   ├── A_Forbidden_Integer.cpp
-│   ├── A_Game_with_Integers.cpp
-│   ├── A_Goals_of_Victory.cpp
-│   ├── A_Grasshopper_on_a_line.cpp
-│   ├── A_Halloumi_Boxes.cpp
-│   ├── A_How_Much_Does_Daytona_Cost.cpp
-│   ├── A_Jagged_Swaps.cpp
-│   ├── A_Line_Trip.cpp
-│   ├── A_Make_it_Beautiful.cpp
-│   ├── A_Serval_and_Mocha_s_Array.cpp
-│   ├── A_Twin_Permutations.cpp
-│   ├── A_Unit_Array.cpp
-│   ├── A_United_We_Stand.cpp
-│   ├── A_We_Need_the_Zero.cpp
-│   ├── B_Sequence_Game.cpp
-│   └── C_Prepend_and_Append.cpp
 │
 ├── CP-31 900 sheet/
-│   ├── A_Forked.cpp
-│   └── B_Chemistry.cpp
 │
 ├── Graphs/
 │   └── CSES Problems/
-│       ├── Labyrinth.cpp
-│       └── counting rooms.cpp
+│
+├── Greedy/
 │
 ├── Number-Theory/
-│   ├── sieveofEratosthenes.cpp
-│   ├── countPrimes.cpp
-│   ├── NthPrime.cpp
-│   ├── AlmostPrimes.cpp
-│   ├── B_T_primes.cpp
-│   ├── gcdCalculate.cpp
-│   ├── commonGreatestDivisor.cpp
-│   ├── countingDivisors.cpp
-│   ├── DivisorSummation.cpp
-│   ├── A_Little_Elephant_and_Problem.cpp
-│   ├── c.cpp
 │   └── Notes/
 │
+├── .gitignore
+├── CODE_OF_CONDUCT
 ├── CP-Topics.md
 ├── CSES Handbook.pdf
-└── README.md
+├── README.md
+└── googlee480616b4aa2c4f1.html
 ```
 
 ---
