@@ -5,68 +5,137 @@
 ![Focus](https://img.shields.io/badge/Focus-Competitive%20Programming-informational)
 ![Notes](https://img.shields.io/badge/Notes-CP--Notes-orange)
 
-[CP Resources](https://docs.google.com/document/d/1Qmh_suVjBv0F3LFC5CfO06knn2zW92nfTyVlQLrUnFs/edit?tab=t.0)
-
 ## Overview
 
-This repository contains **structured Competitive Programming notes and optimized C++ solutions**.
-It is designed for **systematic learning, fast revision, and interview preparation**, with a strong emphasis on algorithmic fundamentals and problem-solving efficiency.
+This repository contains **structured Competitive Programming notes, optimized C++ implementations, and curated problem-solving resources**.
 
-All implementations follow competitive programming constraints and best practices.
+It is designed for:
+
+* Systematic learning
+* Fast revision before contests
+* Strengthening algorithmic intuition
+* Interview preparation
+* Building long-term competitive programming consistency
+
+The repository focuses on writing **clean, efficient, and reusable implementations** following competitive programming standards and constraints.
 
 ---
 
-## Current Coverage
+## Related Learning Resources
 
-### CP Sheets
+| Repository                                                            | Description                                                                                                   |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [CP Notes](https://github.com/manishkumar8312/cp-notes)               | Competitive Programming notes, problem sheets, and optimized implementations                                  |
+| [CS Fundamentals](https://github.com/manishkumar8312/CS-Fundamentals) | Structured notes for DBMS, Operating Systems, Computer Networks, OOPs, TOC, and core CS interview preparation |
 
-* **CP-31 (800 Rated Sheet)**
-  A curated set of 800-rated Codeforces problems for building strong problem-solving fundamentals.
+---
 
-### Core Topics
+## CP Resources
 
-* **[Number Theory](https://github.com/manishkumar8312/cp-notes/tree/main/Number-Theory)**
+* [Competitive Programming Resources](https://docs.google.com/document/d/1Qmh_suVjBv0F3LFC5CfO06knn2zW92nfTyVlQLrUnFs/edit?tab=t.0)
 
-  * Prime numbers and sieves
-  * GCD and divisors
-  * Prime-related problem variants
-  * Competitive programming problems based on number theory
+---
 
-* **[Graphs](https://github.com/manishkumar8312/cp-notes/tree/main/Graphs)**
+# Current Coverage
 
-  * BFS and DFS based traversal
-  * Grid-based graph problems
-  * CSES practice problems
+## CP Sheets
 
-### Platforms
+### CP-31 (800 Rated Sheet)
+
+A curated collection of beginner-friendly Codeforces problems focused on:
+
+* implementation
+* observation
+* brute force thinking
+* basic data structures
+* problem-solving fundamentals
+
+### CP-31 (900 Rated Sheet)
+
+Problems focused on:
+
+* pattern recognition
+* greedy thinking
+* constructive approaches
+* simulation
+* beginner-intermediate contest strategies
+
+---
+
+## Core Topics
+
+### [Number Theory](https://github.com/manishkumar8312/cp-notes/tree/main/Number-Theory)
+
+Topics covered:
+
+* Prime numbers
+* Sieve algorithms
+* GCD and divisors
+* Modular arithmetic
+* Prime factorization
+* Competitive programming problem variants
+
+---
+
+### [Graphs](https://github.com/manishkumar8312/cp-notes/tree/main/Graphs)
+
+Topics covered:
+
+* BFS and DFS traversal
+* Grid-based graph problems
+* Shortest path basics
+* Graph representation
+* CSES graph problems
+
+---
+
+### Upcoming Topics
+
+* Dynamic Programming
+* Bit Manipulation
+* Arrays and Strings
+* Binary Search
+* Recursion and Backtracking
+* Greedy Algorithms
+* Trees and Binary Trees
+* Segment Trees
+* Disjoint Set Union (DSU)
+
+---
+
+# Platforms Covered
 
 * Codeforces
 * CSES
+* LeetCode
+* AtCoder (planned)
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-* **Programming Language:** C++
-* **Paradigm:** Competitive Programming
-* **Code Focus:** Optimized, readable, reusable implementations
+| Category             | Technology                             |
+| -------------------- | -------------------------------------- |
+| Programming Language | C++                                    |
+| Paradigm             | Competitive Programming                |
+| Focus                | Optimized and reusable implementations |
+| STL Usage            | Extensive                              |
+| Goal                 | Contest-ready solutions                |
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
 CP-Notes/
 │
 ├── CP-31 800 sheet/
-│
 ├── CP-31 900 sheet/
 │
 ├── Graphs/
 │   └── CSES Problems/
 │
 ├── Greedy/
-│
 ├── Number-Theory/
 │
 ├── .gitignore
@@ -79,61 +148,60 @@ CP-Notes/
 
 ---
 
-## Objectives
+# Objectives
 
 * Build strong algorithmic and problem-solving fundamentals
-* Maintain topic-wise organized Competitive Programming notes
-* Improve speed, accuracy, and consistency in contests
-* Create a long-term revision resource for interviews and practice
+* Maintain structured topic-wise CP notes
+* Improve contest speed, accuracy, and consistency
+* Create a long-term revision resource
+* Strengthen interview preparation through problem solving
 
 ---
 
-## Roadmap
-
-* Number Theory
-* CP-31 800 Sheet (In Progress)
-* Graph Algorithms
-* Dynamic Programming
-* Bit Manipulation
-* Arrays and Strings
-* Recursion and Backtracking
-
----
-
-## Coding Practices
+# Coding Practices
 
 * One problem per file
-* Efficient use of STL
-* Time and space optimized solutions
-* Clean and consistent naming conventions
-* Solutions written with contest constraints in mind
+* Optimized time and space complexity
+* Readable and reusable code
+* Consistent naming conventions
+* STL-focused implementations
+* Contest-oriented approach
 
 ---
 
-## How to Use This Repository
+# How to Use This Repository
+
+This repository can be used for:
 
 * Topic-wise revision before contests
-* Reference implementations for common algorithms
-* Interview preparation and concept refresh
-* Long-term tracking of learning progress
+* Learning standard CP algorithms
+* Reference implementations
+* Interview preparation
+* Daily problem-solving practice
+* Tracking long-term CP progress
 
 ---
 
-## Contribution
+# Contribution
 
 This repository is maintained primarily for **personal learning and practice**.
-Suggestions, optimizations, and improvements are welcome.
+
+Suggestions, improvements, optimizations, and cleaner approaches are always welcome.
 
 ---
 
-## References
+# References
 
-* Competitive Programming Resources (linked above)
+* Competitive Programming Resources
 * CSES Problem Set Handbook
+* Codeforces Problem Sets
+* Standard CP Editorials
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
-If this repository adds value to your learning, consider giving it a ⭐ to show your support.
+If this repository helps your learning journey, consider giving it a ⭐ on GitHub.
 
+
+[1]: https://github.com/manishkumar8312/CS-Fundamentals?utm_source=chatgpt.com "manishkumar8312/CS-Fundamentals ..."
